@@ -1,0 +1,12 @@
+h1 {
+	color: #54206E;
+}
+
+li {
+	color: rgb(240,0,100);
+}
+
+/* rgba - transparency */
+h4 {
+	color: rgba(11,99,150,.8);
+}

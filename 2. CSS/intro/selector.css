@@ -1,0 +1,46 @@
+/*Elements*/
+li {
+
+}
+
+/*Class*/
+.hello {
+
+}
+
+/*ID*/
+#name {
+
+}
+
+/*Star - all elements*/
+* {
+    border: 1px solid lightgrey;
+}
+
+/*Descendent Selector every a inside li inside ul*/
+ul li a {
+    color: red;
+}
+
+/*Adjacent Selector ul after h4*/
+h4 + ul {
+    border: 4px solid red;
+}
+
+/*Attribute Selector*/
+a[href="http://www.google.com"] {
+    background: blue;
+}
+
+input[type="checkbox"] {
+    background: green;
+}
+/*nth of type - 3rd ul*/
+ul:nth-of-type(3) {
+    background: purple;
+}
+
+li:nth-of-type(even) {
+    color: orange;
+}
