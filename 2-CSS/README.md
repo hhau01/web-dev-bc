@@ -13,3 +13,10 @@ Some CSS basics
 [selectorsExercise.html](https://hhau01.github.io/web-dev-bc/2-CSS/intro/SelectorsPractice/selectorsExercise.html)
 
 ## Intermediate
+[fonts.html](https://hhau01.github.io/web-dev-bc/2-CSS/intermediate/fonts/fonts.html)
+
+[boxmodel.html](https://hhau01.github.io/web-dev-bc/2-CSS/intermediate/boxmodel/boxmodel.html)
+
+[board.html](https://hhau01.github.io/web-dev-bc/2-CSS/intermediate/TicTacToe/board.html)
+
+[photogrid.html](https://hhau01.github.io/web-dev-bc/2-CSS/intermediate/photogrid/photogrid.html)
