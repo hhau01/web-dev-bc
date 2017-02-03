@@ -6,3 +6,5 @@ Learn HTML/CSS/JS basics thoroughly
 [CSS basics](https://github.com/hhau01/web-dev-bc/tree/master/2-CSS)
 
 [BlogExercise](https://github.com/hhau01/web-dev-bc/tree/master/BlogExercise)
+
+[Bootstrap Basics](https://github.com/hhau01/web-dev-bc/tree/master/BootstrapBasics)
