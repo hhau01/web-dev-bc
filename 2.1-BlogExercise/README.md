@@ -1,2 +1,2 @@
-# [Blog Exercise](https://hhau01.github.io/web-dev-bc/BlogExercise/blog.html)
+# [Blog Exercise](https://hhau01.github.io/web-dev-bc/2.1-BlogExercise/blog.html)
 Simple blog with CSS
