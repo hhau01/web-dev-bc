@@ -1,3 +1,18 @@
+// For future refactors
+
+// var game = {}
+
+// game.init = function() {
+//     // Mode button event listeners
+//     setUpModeButtons();
+
+//     // Set up squares
+//     setUpSquares();
+
+//     // Add all the stuff / reset everything
+//     reset();
+// }
+
 var numSquares = 6;
 var colors = [];
 var pickedColor;
