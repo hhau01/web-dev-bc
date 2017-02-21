@@ -1,11 +1,5 @@
 # Intro to DOM
 
-## Intro
-[intro.html](https://hhau01.github.io/web-dev-bc/04-Intro-to-DOM/1-intro/intro.html)
-
-## DOM Selectors
-[select.html](https://hhau01.github.io/web-dev-bc/04-Intro-to-DOM/2-dom-selectors/select.html)
-
 ## DOM Manipulation
 [demo.html](https://hhau01.github.io/web-dev-bc/04-Intro-to-DOM/3-dom-manipulation/demo.html)
 
