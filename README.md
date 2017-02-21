@@ -1,5 +1,5 @@
 # web-dev-bc
-Learn HTML/CSS/JS basics thoroughly
+Learn web development basics thoroughly
 
 [HTML basics](https://github.com/hhau01/web-dev-bc/tree/master/01-HTML)
 
