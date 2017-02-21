@@ -36,6 +36,7 @@ h1 {
 }
 
 #message {
+    /* takes up space even when empty */
     display: inline-block;
     width: 20%;
     font-weight: 700;
@@ -66,6 +67,8 @@ button {
     /* For Firefox and other browsers */
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
+    /* remove annoying blue outline from browser */
+    outline: none;
 }
 
 button:hover {
