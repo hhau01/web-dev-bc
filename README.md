@@ -10,3 +10,5 @@ Learn HTML/CSS/JS basics thoroughly
 [Bootstrap Basics](https://github.com/hhau01/web-dev-bc/tree/master/02.2-BootstrapBasics)
 
 [JavaScript Basics](https://github.com/hhau01/web-dev-bc/tree/master/03-JavaScript)
+
+[DOM Basics](https://github.com/hhau01/web-dev-bc/tree/master/04-Intro-to-DOM)
