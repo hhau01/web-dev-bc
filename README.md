@@ -12,3 +12,5 @@ Learn web development basics thoroughly
 [JavaScript Basics](https://github.com/hhau01/web-dev-bc/tree/master/03-JavaScript)
 
 [DOM Basics](https://github.com/hhau01/web-dev-bc/tree/master/04-Intro-to-DOM)
+
+[Color Game](https://github.com/hhau01/web-dev-bc/tree/master/05-Color-Game)
