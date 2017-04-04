@@ -54,6 +54,10 @@ span {
     opacity: 0;
 }
 
+span:hover {
+    background: #c52a2a;
+}
+
 input {
     font-size: 18px;
     background-color: #f7f7f7;
